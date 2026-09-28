@@ -12,7 +12,7 @@ An endless car-dodging game built with **Java 21** and **JavaFX**. Steer between
 
 | System  | Download                   | How to start                                                   |
 |---------|----------------------------|----------------------------------------------------------------|
-| Windows | `TurboDash-Windows.zip`    | Unzip, open the `TurboDash` folder, run `TurboDash.exe`        |
+| Windows | `TurboDash-Windows.zip`    | Unzip, open the `TurboDash` folder, run `TurboDash.exe` (if Windows shows "protected your PC", click **More info → Run anyway**, since the app isn't code-signed)   |
 | macOS   | `TurboDash-macOS.zip`      | Unzip, then **right-click `TurboDash.app` → Open** (first time only, because the app isn't signed) |
 | Linux   | `TurboDash-Linux.tar.gz`   | Extract, run `TurboDash/bin/TurboDash`                         |
 
