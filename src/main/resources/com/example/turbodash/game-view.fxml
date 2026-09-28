@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.layout.Pane?>
+
+<!-- The game screen. GameController adds the background, track, cars and labels at runtime. -->
+<Pane fx:id="gamePane" prefHeight="720" prefWidth="500"
+      xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1"
+      fx:controller="com.example.turbodash.GameController"/>

@@ -1,0 +1,26 @@
+# Build output
+target/
+!.mvn/wrapper/maven-wrapper.jar
+
+# Save files (the game now stores these in ~/.turbodash, but never commit old copies)
+*.dat
+
+# IntelliJ IDEA
+.idea/
+*.iws
+*.iml
+*.ipr
+out/
+
+# Eclipse / NetBeans / VS Code
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+nbproject/private/
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
